@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "combly": {
+      "type": "http",
+      "url": "https://commentexport.app/mcp"
+    }
+  }
+}

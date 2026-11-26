@@ -1,0 +1,20 @@
+{
+  "name": "combly",
+  "version": "1.0.0",
+  "description": "Comment export and comment search for YouTube, TikTok and Instagram posts with Combly: export comments to CSV, find what viewers ask and pick fair giveaway winners.",
+  "author": {
+    "name": "Combly",
+    "url": "https://commentexport.app"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Comment export by Combly",
+    "shortDescription": "Comment export, comment search and giveaway winner picker",
+    "longDescription": "Comment export and comment search for YouTube videos, TikTok posts and Instagram posts: load a post's comments, search them by keyword, author, date, questions or links, and export comments to CSV. As a giveaway winner picker, draw random winners and backups under the host's rules, with a public winner page and proof code. Uses the plan limits of your Combly account.",
+    "developerName": "Combly",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Load the comments on this YouTube video and tell me the five most common questions viewers ask."
+  }
+}

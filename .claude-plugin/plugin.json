@@ -1,0 +1,26 @@
+{
+  "name": "combly",
+  "version": "1.0.0",
+  "description": "Comment export and comment search for YouTube, TikTok and Instagram posts with Combly: export comments to CSV, find what viewers ask and pick fair giveaway winners with a public winner page.",
+  "author": {
+    "name": "Combly",
+    "url": "https://commentexport.app"
+  },
+  "homepage": "https://commentexport.app/developers",
+  "repository": "https://github.com/commentexport/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "combly",
+    "comment-export",
+    "export-comments",
+    "comment-search",
+    "comment-picker",
+    "giveaway-picker",
+    "youtube-comments",
+    "instagram-giveaway",
+    "tiktok-comments"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://commentexport.app/privacy"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "combly",
+  "owner": {
+    "name": "Combly",
+    "email": "hello@commentexport.app"
+  },
+  "description": "Comment export by Combly for Claude: export and search YouTube, TikTok and Instagram comments and pick giveaway winners.",
+  "plugins": [
+    {
+      "name": "combly",
+      "source": "./",
+      "description": "Comment export, comment search and a giveaway winner picker: export post comments to CSV and draw fair winners with Combly."
+    }
+  ]
+}
